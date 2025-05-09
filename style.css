@@ -14,7 +14,7 @@ body::before {
     left: 0;
     width: 100vw;
     height: 100vh;
-    background-image: url('https://ougiformula.github.io/collectfumos/img/background.jpeg');
+    background-image: url('img/background.jpeg');
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
